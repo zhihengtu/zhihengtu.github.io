@@ -20,7 +20,7 @@ deploy:
     strategy: git
     provider: pages
     skip_cleanup: true
-    token: NpnzfcynDWzhwtCk3iGn
+    token: KjbsIM7vO0WEJ0-uejmigQ
     on:
         branch: hugo
     local_dir: public
