@@ -9,7 +9,7 @@ git config credential.helper store
 git checkout -b hugo
 
 # 配置选择的主题,此处可根据情况自定义
-git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke
+git submodule add https://github.com/budparr/gohugo-theme-even.git themes/even
 
 # 创建存放源文件的目录
 mkdir -p content/posts
