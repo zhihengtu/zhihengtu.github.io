@@ -1,4 +1,4 @@
-#baseURL = "lijiwxg.github.io"
+#baseURL = "zhihengtu.github.io"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "House of Heart"
@@ -21,7 +21,7 @@ googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
 [author]                  # essential                     # 必需
-  name = "li"
+  name = "toozh"
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
@@ -188,21 +188,21 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
-    a-email = "mailto:lijwxg@hotmail.com"
-    b-stack-overflow = "https://stackoverflow.com/users/8232497/jiawen-li"
+    a-email = "mailto:tzh1817@163.com.com"
+    #b-stack-overflow = "https://stackoverflow.com/users/8232497/jiawen-li"
     #c-twitter = "http://localhost:1313"
     #d-facebook = "http://localhost:1313"
     #e-linkedin = "http://localhost:1313"
     #f-google = "http://localhost:1313"
-    g-github = "http://github.com/lijwxg"
+    g-github = "http://github.com/zhihengtu"
     #h-weibo = "http://localhost:1313"
     #i-zhihu = "http://localhost:1313"
-    j-douban = "http://localhost:1313"
+    #j-douban = "http://localhost:1313"
     #k-pocket = "http://localhost:1313"
     #l-tumblr = "http://localhost:1313"
     #m-instagram = "http://localhost:1313"
     #n-gitlab = "http://localhost:1313"
-    o-bilibili = "https://space.bilibili.com/131750620/"
+    #o-bilibili = "https://space.bilibili.com/131750620/"
 
 # See https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
