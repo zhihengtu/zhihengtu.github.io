@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on House of Heart</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on House of Heart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>面朝大海</title>
+      <link>/post/%E9%9D%A2%E6%9C%9D%E5%A4%A7%E6%B5%B7/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/post/%E9%9D%A2%E6%9C%9D%E5%A4%A7%E6%B5%B7/</guid>
+      <description>幸福 从明天起, 做一个幸福的人 喂马,劈柴,周游世界 从明天起, 关心粮食和蔬菜</description>
+    </item>
+    
+  </channel>
+</rss>
